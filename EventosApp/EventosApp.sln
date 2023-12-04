@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosApp", "EventosApp.csproj", "{E6D545CA-C05C-4522-9EF7-9D59EDD4CE52}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OrganizacionDeEvenetos", "..\OrganizacionDeEvenetos\OrganizacionDeEvenetos.vdproj", "{21CF37EE-E995-465D-BD65-22F90DDA9ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D545CA-C05C-4522-9EF7-9D59EDD4CE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D545CA-C05C-4522-9EF7-9D59EDD4CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D545CA-C05C-4522-9EF7-9D59EDD4CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D545CA-C05C-4522-9EF7-9D59EDD4CE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CF37EE-E995-465D-BD65-22F90DDA9ED5}.Debug|Any CPU.ActiveCfg = Debug
+		{21CF37EE-E995-465D-BD65-22F90DDA9ED5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81ADA2D0-8F5E-461F-8B11-594FC78F6A42}
+	EndGlobalSection
+EndGlobal
